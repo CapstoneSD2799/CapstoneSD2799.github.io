@@ -46,19 +46,19 @@ body {
 .carousel-caption { font: 25px Arial; }
 .carousel-caption h1 { font: 45px Arial; }
 #first-image {
-	background: url('../park-images/Kings-County01.jpg') top center no-repeat;
+	background: url('../park-images/Kings-County01.JPG') top center no-repeat;
 	background-size: 100% 100%; /* rezising the image*/
 }
 #second-image {
-	background: url('../park-images/Kings-County02.jpg') top center no-repeat;
+	background: url('../park-images/Kings-County02.JPG') top center no-repeat;
 	background-size: 100% 100%; /* rezising the image*/
 }
 #third-image {
-	background: url('../park-images/Kings-County03.jpg') top center no-repeat;
+	background: url('../park-images/Kings-County03.JPG') top center no-repeat;
 	background-size: 100% 100%; /* rezising the image*/
 }
 #fourth-image {
-	background: url('../park-images/Kings-County04.jpg') top center no-repeat;
+	background: url('../park-images/Kings-County04.JPG') top center no-repeat;
 	background-size: 100% 100%; 
 }
 /*---------------------------------------------------

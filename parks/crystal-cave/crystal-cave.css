@@ -46,7 +46,7 @@ body {
 .carousel-caption { font: 25px Arial; }
 .carousel-caption h1 { font: 45px Arial; }
 #first-image {
-	background: url('../park-images/Crystal Cave- View.jpg') top center no-repeat;
+	background: url('../park-images/Crystal-Cave03.jpg') top center no-repeat;
 	background-size: 100% 100%; /* rezising the image*/
 }
 #second-image {
@@ -58,7 +58,7 @@ body {
 	background-size: 100% 100%; /* rezising the image*/
 }
 #fourth-image {
-	background: url('../park-images/Crystal Cave- View04.jpg') top center no-repeat;
+	background: url('../park-images/Crystal-Cave02.jpg') top center no-repeat;
 	background-size: 100% 100%; 
 }
 /*---------------------------------------------------
